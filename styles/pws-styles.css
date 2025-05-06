@@ -21,7 +21,7 @@ main{
 /* Body Styling */
 body {
     font-family: 'Alike', serif; /* Classic serif for general content */
-    background-image: url('../pws-image/Main_background.png');
+    background-image: url('../images/Main_background.png');
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
